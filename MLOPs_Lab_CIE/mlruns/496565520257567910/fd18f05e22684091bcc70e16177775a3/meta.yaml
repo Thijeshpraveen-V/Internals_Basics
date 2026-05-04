@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/thije/Internals_Basics/MLOPs_Lab_CIE/mlruns/496565520257567910/fd18f05e22684091bcc70e16177775a3/artifacts
+end_time: 1777867860029
+entry_point_name: ''
+experiment_id: '496565520257567910'
+lifecycle_stage: active
+run_id: fd18f05e22684091bcc70e16177775a3
+run_name: trial_4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867859944
+status: 3
+tags: []
+user_id: thije

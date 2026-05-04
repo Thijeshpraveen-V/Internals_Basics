@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/thije/Internals_Basics/MLOPs_Lab_CIE/mlruns/496565520257567910/models/m-40528c5dc52c41de9450e20436a46680/artifacts
+creation_timestamp: 1777867434582
+experiment_id: '496565520257567910'
+last_updated_timestamp: 1777867444440
+model_id: m-40528c5dc52c41de9450e20436a46680
+model_type: null
+name: Ridge
+source_run_id: 698e0308e0d645bb981fa3a9acbf5218
+status: 2
+status_message: null

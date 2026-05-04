@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/thije/Internals_Basics/MLOPs_Lab_CIE/mlruns/496565520257567910/698e0308e0d645bb981fa3a9acbf5218/artifacts
+end_time: 1777867444471
+entry_point_name: ''
+experiment_id: '496565520257567910'
+lifecycle_stage: active
+run_id: 698e0308e0d645bb981fa3a9acbf5218
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867434197
+status: 3
+tags: []
+user_id: thije

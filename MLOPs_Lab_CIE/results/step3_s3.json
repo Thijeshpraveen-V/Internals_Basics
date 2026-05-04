@@ -1,0 +1,12 @@
+{
+  "image_name": "promptlab-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.10-slim",
+  "test_input": {
+    "prompt_token_count": 524.0,
+    "system_prompt_length": 806.0,
+    "temperature": 0.9,
+    "is_few_shot": 1
+  },
+  "prediction": 6.8445
+}

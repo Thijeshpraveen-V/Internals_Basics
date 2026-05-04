@@ -1,0 +1,22 @@
+{
+  "experiment_name": "promptlab-response-quality-score",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 0.3603,
+      "rmse": 0.3908,
+      "r2": 0.9647,
+      "mape": 8.6668
+    },
+    {
+      "name": "RandomForest",
+      "mae": 0.8261,
+      "rmse": 0.9411,
+      "r2": 0.7953,
+      "mape": 28.0151
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "rmse",
+  "best_metric_value": 0.3908
+}
